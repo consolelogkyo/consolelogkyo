@@ -4,11 +4,13 @@
 
 ###
 
-<img align="right" height="300" src="https://camo.githubusercontent.com/57d6b34f9feb89c6b5a38546324bfb6858ca7d05b59ab133ee195afd21177cec/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966"  />
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZveDFuejF2Z2J1cW9kdXNhbnIxanJqYXpiajZ1eHVyeWV2Ymk3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Q97hfhr1kHhufyyLnw/giphy.gif"  />
+</div>
 
 ###
 
-<h3 align="left">🕵️ ᴀʙᴏᴜᴛ ᴍᴇ<br>​🇮​❜​🇲​ ​🇦​ ​🇸​​🇪​​🇱​​🇫​ ​🇹​​🇦​​🇺​​🇬​​🇭​​🇹​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷​, ​🇳​​🇪​​🇷​​🇩​ ​🇦​​🇳​​🇩​ ​🇮​​🇹​ ​🇪​​🇳​​🇹​​🇭​​🇺​​🇸​​🇮​​🇦​​🇸​​🇹​.</h3>
+<h4 align="left">🕵️ ᴀʙᴏᴜᴛ ᴍᴇ:<br>» ​🇮​❜​🇲​ ​🇦​ ​🇸​​🇪​​🇱​​🇫​ ​🇹​​🇦​​🇺​​🇬​​🇭​​🇹​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷​, ​🇳​​🇪​​🇷​​🇩​ ​🇦​​🇳​​🇩​ ​🇮​​🇹​ ​🇪​​🇳​​🇹​​🇭​​🇺​​🇸​​🇮​​🇦​​🇸​​🇹​.</h4>
 
 ###
 
@@ -16,24 +18,13 @@
 
 ###
 
-<h4 align="left">📩 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ:</h4>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/matheus-sergio-olovics/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:matheusolovics@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
+<br clear="both">
 
 <h4 align="left">👨‍💻ʟᴀɴɢᴜᴀɢᴇ ᴀɴᴅ ᴛᴏᴏʟꜱ:</h4>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
@@ -79,8 +70,17 @@
 
 ###
 
+<h4 align="left">📩 ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ:</h4>
+
+###
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=consolelogkyo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <a href="https://www.linkedin.com/in/matheus-sergio-olovics/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:matheusolovics@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
