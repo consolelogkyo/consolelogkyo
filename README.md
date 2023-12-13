@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">🕵️ ᴀʙᴏᴜᴛ ᴍᴇ<br>​🇮​❜​🇲​ ​🇦​ ​🇸​​🇪​​🇱​​🇫​ ​🇹​​🇦​​🇺​​🇬​​🇭​​🇹​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷​, ​🇳​​🇪​​🇷​​🇩​ ​🇦​​🇳​​🇩​ ​🇮​​🇹​ ​🇪​​🇳​​🇹​​🇭​​🇺​​🇸​​🇮​​🇦​​🇸​​🇹​.</h4>
+<h3 align="left">🕵️ ᴀʙᴏᴜᴛ ᴍᴇ<br>​🇮​❜​🇲​ ​🇦​ ​🇸​​🇪​​🇱​​🇫​ ​🇹​​🇦​​🇺​​🇬​​🇭​​🇹​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷​, ​🇳​​🇪​​🇷​​🇩​ ​🇦​​🇳​​🇩​ ​🇮​​🇹​ ​🇪​​🇳​​🇹​​🇭​​🇺​​🇸​​🇮​​🇦​​🇸​​🇹​.</h3>
 
 ###
 
@@ -36,45 +36,45 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="25" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="25" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="25" alt="aftereffects logo"  />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="25" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="25" alt="figma logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="25" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="25" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="25" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="25" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="25" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="25" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="25" alt="materialui logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="25" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="25" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="25" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge" height="25" alt="eslint logo"  />
   <img width="12" />
+  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="25" alt="aftereffects logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="25" alt="nextjs logo"  />
+  <img width="12" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="25" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="25" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="25" alt="postman logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="25" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="25" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="25" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" height="25" alt="materialui logo"  />
 </div>
 
 ###
